@@ -23,14 +23,10 @@ function Mainpage() {
                         <div class='col-3' style={{textAlign:'right'}}> Order by</div>
                         <div class='col-3'>
                             <div class="dropdown">
-                                <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <a class="btn btn-secondary dropdown-toggle" href="www.select.com" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     Select
                                 </a>
-                                <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                                    <a class="dropdown-item" href="#">Action</a>
-                                    <a class="dropdown-item" href="#">Another action</a>
-                                    <a class="dropdown-item" href="#">Something else here</a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>

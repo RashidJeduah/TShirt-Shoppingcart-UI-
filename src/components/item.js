@@ -3,7 +3,7 @@ import React from 'react';
 function Item({image,text,price,discount}){
     return (
         <div style={{height:'420px', width:'220px',margin:'30px 2px 0px 2px',marginBottom:'20px'}}>
-            <img src={image} style={{width:'100%',height:'260px',}}/>
+            <img src={image} alt='' style={{width:'100%',height:'260px',}}/>
             <h6 style={{textAlign:'center'}}>{text}</h6>
             <hr style={{width:'20px', backgroundColor:'gold'}}/> 
             <h5 style={{textAlign:'center'}}>{price}</h5>
