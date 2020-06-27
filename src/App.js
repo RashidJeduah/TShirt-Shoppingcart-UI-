@@ -7,12 +7,12 @@ import Mainpage from './components/mainpage';
 
 function App() {
   return (
-    <div class='container'>
-      <div class='row'>
-        <div class='col-2'>
+    <div className='container'>
+      <div className='row'>
+        <div className='col-md-2'>
           <Sidebar/>
         </div>
-        <div class='col-10'>
+        <div className='col-md-10'>
           <Mainpage/>
         </div>
       </div>
